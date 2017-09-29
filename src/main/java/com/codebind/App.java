@@ -1,7 +1,7 @@
 package com.codebind;
 
 public class App {
-public String maMethode()
+public String maMethodeDev1()
 {
 	return "mon message";
 }
